@@ -1,4 +1,16 @@
-## Hi there 👋
+
+# 👋 Hi, I'm Anisha
+Machine Learning Engineer | BTech | MSc Data Science
+
+## 🔧 Technologies I Work With
+- Python, SQL, Tableau, Power BI
+- Scikit-learn, TensorFlow, Keras, PyTorch, XGBoost, LightGBM, OpenCV
+
+<!--## 📈 GitHub Stats
+![Anisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anishagera&show_icons=true&theme=default) -->
+
+## 📫 Let's Connect
+[LinkedIn](https://www.linkedin.com/in/anishagera) • [Portfolio](https://anishagera.github.io)
 
 <!--
 **AnishaGera/AnishaGera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
